@@ -27,7 +27,7 @@ var (
 // Also returned is the number of bits required by this encoding,
 // which is not necessarily on a byte boundary.
 //
-// The RLE+ spec is here: https://github.com/filecoin-project/specs/blob/master/data-structures.md#rle-bitset-encoding
+// The RLE+ spec is here: https://github.com/chenjianmei111/specs/blob/master/data-structures.md#rle-bitset-encoding
 // and is described by the BNF Grammar:
 //
 //    <encoding> ::= <header> <blocks>

@@ -1,4 +1,4 @@
-module github.com/filecoin-project/go-bitfield
+module github.com/chenjianmei111/go-bitfield
 
 go 1.13
 
